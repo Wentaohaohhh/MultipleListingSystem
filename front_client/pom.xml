@@ -12,7 +12,7 @@
 	<artifactId>front_client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>front_client</name>
-	<description>sub_client</description>
+	<description>sub_front</description>
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.0</spring-cloud.version>
